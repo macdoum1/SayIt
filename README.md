@@ -16,4 +16,5 @@ AVSpeechSynthesizer *sayIt = [[AVSpeechSynthesizer alloc]init];
     postdelay:0             // NSTimeInterval
     andLanguage:@"en-US"];  // BCP 47 Language Code, link below
 ```
+BCP 47 Langauge Codes
 https://developer.apple.com/library/mac/documentation/macosx/conceptual/bpinternational/Articles/LanguageDesignations.html
