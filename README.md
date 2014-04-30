@@ -17,4 +17,4 @@ AVSpeechSynthesizer *sayIt = [[AVSpeechSynthesizer alloc]init];
     andLanguage:@"en-US"];  // BCP 47 Language Code, link below
 ```
 
-<a href="https://developer.apple.com/library/mac/documentation/macosx/conceptual/bpinternational/Articles/LanguageDesignations.html">BCP 47 Langauge Codes</a>
+<a href="https://developer.apple.com/library/mac/documentation/macosx/conceptual/bpinternational/Articles/LanguageDesignations.html">BCP 47 Language Codes</a>
