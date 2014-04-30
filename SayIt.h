@@ -11,6 +11,6 @@
 
 @interface AVSpeechSynthesizer (SayIt)
 
-- (void)sayString:(NSString *)sayString withRate:(float)rate pitchMultiplier:(float)pitch Volume:(float)volume predelay: (NSTimeInterval)predelay postdelay:(NSTimeInterval)postdelay andLanguage:(NSString *)lang;
+- (void)sayString:(NSString *)sayString withRate:(float)rate pitchMultiplier:(float)pitch volume:(float)volume predelay: (NSTimeInterval)predelay postdelay:(NSTimeInterval)postdelay andLanguage:(NSString *)lang;
 
 @end
